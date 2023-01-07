@@ -1,2 +1,2 @@
 # MyApplication
-Trying to make text, buttons and edit buttons in kotlin
+Learning to make android apps using  xml in kotlin
